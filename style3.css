@@ -1,0 +1,44 @@
+.painel {
+    width: 500px;
+    height: 500px;
+    background-color: white;
+    margin: auto;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    background-color: rgb(36, 102, 224);
+}
+
+#sim {
+    position: absolute;
+    width: 60px;
+    height: 40px;
+    background-color: rgb(255, 100, 209);
+    border: 2px solid  white;
+    border-radius: 10px;
+    color: white;
+    margin-left: -50px;
+    text-decoration: none;
+    outline: none;
+    box-shadow: none;
+    
+}
+
+#nao {
+    position: absolute;
+    width: 60px;
+    height: 40px;
+    background-color:rgb(255, 100, 209);
+    border: 2px solid white;
+    border-radius: 10px;
+    color: white;
+    margin-left: 10px;
+    text-decoration: none;
+    outline: none;
+    box-shadow: none;
+
+}
